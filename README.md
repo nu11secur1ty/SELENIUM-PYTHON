@@ -2,7 +2,8 @@
 
 ![](https://github.com/nu11secur1ty/SELENIUM-PYTHON/blob/main/Docs/Python-Selenium.png)
 
-Selenium for Python 3.x is a very powerful method for hacking websites and web applications.
+Selenium for Python 3.x is a very powerful hacking software for websites and web applications.
+Also, this software is perfect for the building of exploits and Penetration Testing.
 
 ## Example of login to a webpage:
 
